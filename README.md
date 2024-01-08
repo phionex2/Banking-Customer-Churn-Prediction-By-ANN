@@ -16,3 +16,6 @@
   <li>Import <b>keras</b> from tensorflow </li>
   <li>Decide the number of hidden layes and the number of nodes</li>
 </ul>
+
+<p>As per my model I have decided the value of epoch = 50 and created 1 hidden layer,the intial layer consist of 5 bias and hidden layer consist of 3 bias as show in the diagram</p>
+<img src="C:\Users\Dell\Downloads\Screenshot 2024-01-08 153811.png">
