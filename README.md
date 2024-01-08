@@ -19,3 +19,4 @@
 
 <p>As per my model I have decided the value of epoch = 50 and created 1 hidden layer,the intial layer consist of 5 bias and hidden layer consist of 3 bias as show in the diagram</p>
 <img alt='model_demo' src="Screenshot 2024-01-08 153811.png" style="border: 10px solid black">
+<p>My consist some sort of overfitting you can solve that by adding the regulariztion </p>
